@@ -1,0 +1,2 @@
+# https-we.haveignition.com-bits-pilani-launches-669aa859d49f5ddbd4406c76-mission-control-public
+ScrumConnect for BITS-Pilani is a tailored Scrum and Agile project management platform aimed at optimizing workflow, boosting collaboration, and improving project tracking for students, faculty, and administration. It uses Scrum principles to create a transparent, cooperative environment, enhancing the efficiency of academic projects
